@@ -37,9 +37,8 @@ const Footer = () => {
       <div className="copyright_section">
         <div className="container">
           <p className="copyright_text">
-            2025 All Rights Reserved. Design by{" "}
-            <a href="https://raqeebulfahim.com">Raqeebul Hasan</a> Distribution
-            by <a href="https://raqeebulfahim.com">Fahim</a>
+          © 2025 All Rights Reserved 
+            <a href="https://raqeebulfahim.com"> | Raqeebul Hasan Fahim</a>
           </p>
         </div>
       </div>

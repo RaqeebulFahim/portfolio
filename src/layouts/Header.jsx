@@ -237,7 +237,7 @@ const Header = () => {
                               Hello, I'm <br />
                               Raqeebul Hasan Fahim
                             </h3>
-                            <h1 className="banner_taital">Web Developer</h1>
+                            <h1 className="banner_taital">Laravel Developer</h1>
                           </div>
                         </div>
                         <div className="col-md-6">
@@ -309,7 +309,7 @@ const Header = () => {
                               Raqeebul Hasan Fahim
                             </h3>
                             <h1 className="banner_taital">
-                              WordPress Developer
+                              React Developer
                             </h1>
                           </div>
                         </div>
