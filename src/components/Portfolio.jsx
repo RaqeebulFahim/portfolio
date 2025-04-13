@@ -16,7 +16,7 @@ const Portfolio = () => {
         <div className="row">
           <div className="col-md-8">
             <div className="container_main">
-              <img src="images/img-1.png" alt className="image" />
+              <img src="images/img-1.png" alt="image" className="image" />
               <div className="overlay">
                 <div className="text">
                   <div className="btn_main">
@@ -28,7 +28,7 @@ const Portfolio = () => {
           </div>
           <div className="col-md-4">
             <div className="container_main">
-              <img src="images/img-2.png" alt className="image" />
+              <img src="images/img-2.png" alt="image" className="image" />
               <div className="overlay">
                 <div className="text">
                   <div className="btn_main">
@@ -44,7 +44,7 @@ const Portfolio = () => {
         <div className="row">
           <div className="col-md-4">
             <div className="container_main">
-              <img src="images/img-3.png" alt className="image" />
+              <img src="images/img-3.png" alt="image" className="image" />
               <div className="overlay">
                 <div className="text">
                   <div className="btn_main">
@@ -56,7 +56,7 @@ const Portfolio = () => {
           </div>
           <div className="col-md-4">
             <div className="container_main">
-              <img src="images/img-4.png" alt className="image" />
+              <img src="images/img-4.png" alt="image" className="image" />
               <div className="overlay">
                 <div className="text">
                   <div className="btn_main">
@@ -68,7 +68,7 @@ const Portfolio = () => {
           </div>
           <div className="col-md-4">
             <div className="container_main">
-              <img src="images/img-5.png" alt className="image" />
+              <img src="images/img-5.png" alt="image" className="image" />
               <div className="overlay">
                 <div className="text">
                   <div className="btn_main">
